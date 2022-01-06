@@ -2,7 +2,7 @@
  * Programmer: Fernando Pires Rui
  * Date: 02/06/2021
  * Name: Students Grades
- * This program will create a interface that the user can add 
+ * This program will create a window that will make the user store 15 students and their marks on a 2d array, calculate the average and display all the information on the screen.
  */
 
 import java.awt.BorderLayout;
